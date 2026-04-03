@@ -8,8 +8,8 @@ In this project, I created a RESTful API that serves as a book log to the user b
 ```
 1. get_books()                         - retrieve all books         (GET)
 2. get_book_by_id(book_id)             - retreive book by index     (GET)
-3. get_book_by_title(book_title)       - retreive book by title      (GET)
-4. get_book_by_author(book_author)     - retreive book by author     (GET)
+3. get_book_by_title(book_title)       - retreive book by title     (GET)
+4. get_book_by_author(book_author)     - retreive book by author    (GET)
 5. add_book()                          - post book                  (POST)
 6. delete_book_by_id(book_id)          - delete book by id          (DELETE)
 7. delete_book_by_title(book_title)    - delete book by title       (DELETE)
